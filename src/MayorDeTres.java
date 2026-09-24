@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Programa3 {
+public class MayorDeTres {
     public static void main(String [] args) {
         Scanner sc = new Scanner(System.in);
 
